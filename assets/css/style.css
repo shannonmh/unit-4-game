@@ -1,0 +1,34 @@
+.background {
+    background-image: url("../images/frosty-spirals.png");
+}
+
+.bg1 {
+    background-color: #ffd3d8;
+    color: #ffffff;
+}
+
+.bg2 {
+    background-color: #6ddbc2;
+    color: #ffffff;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+}
+
+.gem-image {
+    height: 200px;
+}
+
+.gem1 {
+    height: 200px;
+}
+
+.gem2 {
+    height: 200px;
+}
